@@ -1,14 +1,14 @@
 # Module 21 Challenge - Book Search Engine
 
-<!-- <h1 align="center">
-    <a href="https://budget-tracker-cbm.herokuapp.com/" target="_blank">
+<h1 align="center">
+    <a href="https://book-search-engine-cbm.herokuapp.com/" target="_blank">
      Live Page
     </a>
-</h1> -->
+</h1>
 
-<!-- <div align="center">
+<div align="center">
     <img src="./assets/screenshot.png" width="100%">
-</div> -->
+</div>
 
 ## Challenge Description:
 
